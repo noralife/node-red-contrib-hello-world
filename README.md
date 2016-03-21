@@ -1,6 +1,6 @@
 node-red-contrib-hello-world
 ========================
-A <a href="http://nodered.org" target="_new">Node-RED</a> node to send Hello World.
+A <a href="http://nodered.org" target="_new">Node-RED</a> node to show Hello World.
 
 Install
 -------
